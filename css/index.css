@@ -11,7 +11,7 @@
 	height: 84px;
 	line-height: 60px;
 	background: lightseagreen;
-	margin-top: -18px;
+	margin-top: 0px;
 	text-align: center;
 	}
 .ul{
@@ -28,12 +28,91 @@
 	margin-top:10px;
 }
 .right1{
-	background-color: #F1F1F1;
+	background-color: #FAFFFA;
 	border-left:#E4E4E4 ;
 }
 .media img{
 	width:260px;
 	height: 160px;
+}
+.navi{
+	margin-top: 40px;
+}
+.navi a{
+	text-decoration: none;
+}
+.navi a span:hover{
+	color: greenyellow;
+}
+.navii ul li{
+	margin-top: 15px;
+	list-style: none;
+	
+}
+.navii ul li a{
+	font-size: 14px;
+	color: #000000;
+}
+.navii ul li a:hover{
+	color: dodgerblue;
+}
+.comment{
+	margin-top: 30px;
+}
+.user{
+	margin-top: 20px;
+}
+.user img{
+	width: 32px;
+	height: 32px;
+}
+.user p{
+	color: #999999;
+	font-size: 12px;
+	margin-top: 10px;
+}
+.attention{
+	margin-top: 20px;
+}
+.media-list{
+	margin-top: 20px;
+}
+.media-list p{
+	margin-top:10px ;
+	color: #999999;
+	font-size: 12px;
+}
+.user .panel{
+	background:#FAFAFA ;
+	margin-top: 10px;
+}
+.enter{
+	background-color: #F1F1F1;
+	text-align: center;
+	margin-top: 20px;
+}
+.bod{
+	margin-top: 25px;
+	padding-bottom: 10px;
+}
+.bod p{
+	margin-top: 6px;
+}
+.manager{
+	margin-top: 40px;
+}
+.tag{
+	margin-top: 20px;
+}
+.tagbut{
+	margin-top: 20px;
+}
+.focus{
+	margin-top: 20px;
+}
+.link a{
+	color: #999999;
+	text-decoration: none;
 }
 .footer{
 	width: 100%;
